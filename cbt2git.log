@@ -1,0 +1,10 @@
+2023-04-02 21:42:57.325310 - Initialized conversion of CBT1017
+2023-04-02 21:42:57.409507 - Received CBT.V504.FILE1017.PDS from FILE1017.XMI 
+2023-04-02 21:42:57.412372 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:42:57.413557 - Found $DOC.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/$DOC
+2023-04-02 21:42:57.414582 - Found @FIL1017.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/@FIL1017
+2023-04-02 21:42:57.415672 - Found CLIST.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/CLIST
+2023-04-02 21:42:57.416684 - Found LMXREF.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/LMXREF
+2023-04-02 21:42:57.417701 - Found LMXREFR.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/LMXREFR
+2023-04-02 21:42:57.417711 - Found OBJECT.bin containing application/octet-stream, moved to PDS/OBJECT
+2023-04-02 21:42:57.419565 - Found QSORTS.txt (text/plain) in CBT.V504.FILE1017.PDS, moved to PDS/QSORTS
