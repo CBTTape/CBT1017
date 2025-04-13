@@ -1,9 +1,9 @@
-2025-04-13 13:19:00.020612 - Received CBT.V505.FILE1017.PDS from FILE1017.XMI 
-2025-04-13 13:19:00.021483 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/$$$#DATE
-2025-04-13 13:19:00.021601 - Found $DOC.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/$DOC
-2025-04-13 13:19:00.021698 - Found @FIL1017.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/@FIL1017
-2025-04-13 13:19:00.021790 - Found CLIST.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/CLIST
-2025-04-13 13:19:00.021942 - Found LMXREF.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/LMXREF
-2025-04-13 13:19:00.022103 - Found LMXREFR.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/LMXREFR
-2025-04-13 13:19:00.022236 - Found OBJECT.bin (application/octet-stream) in CBT.V505.FILE1017.PDS, moved to PDS/OBJECT
-2025-04-13 13:19:00.022312 - Found QSORTS.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/QSORTS
+2025-04-13 16:17:13.991451 - Received CBT.V505.FILE1017.PDS from FILE1017.XMI 
+2025-04-13 16:17:13.992781 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/$$$#DATE
+2025-04-13 16:17:13.992992 - Found $DOC.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/$DOC
+2025-04-13 16:17:13.993046 - Found @FIL1017.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/@FIL1017
+2025-04-13 16:17:13.993187 - Found CLIST.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/CLIST
+2025-04-13 16:17:13.993675 - Found LMXREF.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/LMXREF
+2025-04-13 16:17:13.994263 - Found LMXREFR.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/LMXREFR
+2025-04-13 16:17:13.994817 - Found OBJECT.bin (application/octet-stream) in CBT.V505.FILE1017.PDS, moved to PDS/OBJECT
+2025-04-13 16:17:13.995305 - Found QSORTS.txt (text/plain) in CBT.V505.FILE1017.PDS, moved to PDS/QSORTS
